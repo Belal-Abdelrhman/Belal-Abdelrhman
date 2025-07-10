@@ -8,9 +8,6 @@
   <a href="mailto:Belal.A.Fikry@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&style=for-the-badge" height="25" />
   </a>
-  <a href="tel:+201033509253" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Phone&logo=phone&label=&color=34A853&logoColor=white&style=for-the-badge" height="25" />
-  </a>
   <a href="https://www.linkedin.com/in/belal-abdelrhman" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
   </a>
@@ -30,6 +27,11 @@
     <img src="https://img.shields.io/static/v1?message=Mostaql&logo=simpleicons&label=&color=009688&logoColor=white&style=for-the-badge" height="25" />
   </a>
 </div>
+
+<div align="center">
+  📞 <strong>+20 103 350 9253</strong>
+</div>
+
 
 
 ###

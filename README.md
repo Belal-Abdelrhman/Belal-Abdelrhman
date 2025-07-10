@@ -62,13 +62,6 @@
   <img src="https://img.icons8.com/color/48/jupyter.png" height="40" alt="Jupyter"/>
 </div>
 
-###
-
-<h3 align="left">📈 Featured Projects</h3>
-
-- 📊 **[Superstore Sales Analysis](https://github.com/Belal-Abdelrhman/Superstore-Analysis)** – [YouTube Demo](https://youtu.be/kXrYaG8igHU?si=qDwQ1MXkaKID0L9H)
-- 🏘 **[Real Estate Power BI Dashboard](https://github.com/Belal-Abdelrhman/Real-Estate-Power-BI-Dashboard)** – [YouTube Demo](https://youtu.be/M0hbk2DneCk?si=IZ2ojtZ9H9KAIuKU)
-- 👥 **[HR Analytics Dashboard](https://github.com/Belal-Abdelrhman/HR-Analsis-Dashboard)** – [YouTube Demo](https://youtu.be/YyvYjg0nrCw?si=u8wu3JJ_U7gK2M3O)
 
 ###
 

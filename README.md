@@ -5,6 +5,12 @@
 ###
 
 <div align="center">
+  <a href="mailto:Belal.A.Fikry@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+  <a href="tel:+201033509253" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Phone&logo=phone&label=&color=34A853&logoColor=white&style=for-the-badge" height="25" />
+  </a>
   <a href="https://www.linkedin.com/in/belal-abdelrhman" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
   </a>
@@ -24,6 +30,7 @@
     <img src="https://img.shields.io/static/v1?message=Mostaql&logo=simpleicons&label=&color=009688&logoColor=white&style=for-the-badge" height="25" />
   </a>
 </div>
+
 
 ###
 
@@ -61,4 +68,14 @@
   <img src="https://img.icons8.com/color/48/tableau-software.png" height="40" alt="Tableau"/>
   <img src="https://img.icons8.com/color/48/jupyter.png" height="40" alt="Jupyter"/>
 </div>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Belal-Abdelrhman&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Belal-Abdelrhman&theme=radical" height="180"/>
+</div>
+
+### 📄 Resume
+- You can view or download my resume: [Belal_Abdelrhman_Data_Analyst_CV.pdf](https://github.com/user-attachments/files/21170955/Belal_Abdelrhman_Data_Analyst_CV.pdf) 
 

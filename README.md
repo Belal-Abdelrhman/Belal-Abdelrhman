@@ -1,67 +1,79 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a href="https://www.linkedin.com/in/belal-abdelrhman" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+  <a href="https://www.youtube.com/@Belal_A_Fikry" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+  <a href="https://www.facebook.com/Belal.A.Fikry" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/~01bb997685127e8f2f" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Upwork&logo=upwork&label=&color=6FDA44&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+  <a href="https://khamsat.com/user/belal_abdelrhman" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Khamsat&logo=simpleicons&label=&color=F9A825&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+  <a href="https://mostaql.com/u/BelalAbdelrhman" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Mostaql&logo=simpleicons&label=&color=009688&logoColor=white&style=for-the-badge" height="25" />
+  </a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Belal-Abdelrhman.Belal-Abdelrhman" />
 </div>
 
 ###
 
-<h1 align="center">Hey There 👋</h1>
+<h1 align="center">Hey there 👋, I'm Belal Abdelrhman</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👨‍💻 About Me</h3>
+
+<p align="left">
+🎯 Data Analyst with strong math background and hands-on experience in SQL, Python, Power BI, and Tableau.<br>
+📊 Passionate about transforming raw data into actionable insights through analytics and visualization.<br>
+🎓 Graduated from Helwan University with a B.Sc. in Mathematics and Computer Science.<br>
+🌐 Open to freelance work and collaboration on data projects!
+</p>
 
 ###
 
-<p align="left">I'm Belal Abdelrhman from Egypt<br><br>- 🔭 I’m working as Data Analyst<br>- 📚 I'm currently learning ML<br>- ⚡ In my free time I improve myself</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+<h3 align="left">🛠️ Tools & Technologies</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="40" alt="Excel"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" height="40" alt="Power BI"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png" height="40" alt="Tableau"/>
+  <img src="https://img.icons8.com/color/48/jupyter.png" height="40" alt="Jupyter"/>
 </div>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">📈 Featured Projects</h3>
+
+- 📊 **[Superstore Sales Analysis](https://github.com/Belal-Abdelrhman/Superstore-Analysis)** – [YouTube Demo](https://youtu.be/kXrYaG8igHU?si=qDwQ1MXkaKID0L9H)
+- 🏘 **[Real Estate Power BI Dashboard](https://github.com/Belal-Abdelrhman/Real-Estate-Power-BI-Dashboard)** – [YouTube Demo](https://youtu.be/M0hbk2DneCk?si=IZ2ojtZ9H9KAIuKU)
+- 👥 **[HR Analytics Dashboard](https://github.com/Belal-Abdelrhman/HR-Analsis-Dashboard)** – [YouTube Demo](https://youtu.be/YyvYjg0nrCw?si=u8wu3JJ_U7gK2M3O)
 
 ###
+
+<h3 align="left">📊 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Belal-Abdelrhman&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" height="220" alt="GitHub Streak Stats" />
 </div>
-
-###
